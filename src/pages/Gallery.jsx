@@ -1,0 +1,1 @@
+export default function Gallery() { return (<div className='p-10'><h2 className='text-2xl font-bold mb-4'>Gallery</h2><p>Gallery content goes here.</p></div>); }

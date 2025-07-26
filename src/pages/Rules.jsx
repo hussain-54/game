@@ -1,0 +1,1 @@
+export default function Rules() { return (<div className='p-10'><h2 className='text-2xl font-bold mb-4'>Game Rules</h2><p>Rules content goes here.</p></div>); }
