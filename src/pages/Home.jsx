@@ -1,4 +1,3 @@
-export default function Home() { return (<div className='p-10 text-center'><h2 className='text-3xl font-bold'>Welcome to 21 Stack'em</h2></div>); }
 import { Link } from "react-router-dom";
 
 export default function Home() {
